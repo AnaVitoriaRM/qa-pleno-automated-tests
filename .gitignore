@@ -1,0 +1,12 @@
+# Ignore pastas do Cypress e Python
+frontend-tests/node_modules/
+frontend-tests/.cache/
+frontend-tests/cypress/videos/
+frontend-tests/cypress/screenshots/
+
+# Ignore arquivos do Python
+_pycache_/
+*.pyc
+
+# Ignore cache do pytest
+.pytest_cache/
