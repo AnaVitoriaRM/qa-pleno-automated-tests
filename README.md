@@ -48,7 +48,7 @@ qa-pleno-automated-tests/
 ### 📦 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/qa-pleno-automated-tests.git
+git clone https://github.com/AnaVitoriaRM/qa-pleno-automated-tests.git
 cd qa-pleno-automated-tests
 ```
 
@@ -131,6 +131,4 @@ npx cypress run
 ---
 
 ## 📨 Contato
-
-Dúvidas ou sugestões? Fique à vontade para abrir uma *issue* ou enviar um pull request!
 Responsável: **Ana Vitória Matos**
